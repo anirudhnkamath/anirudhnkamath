@@ -21,7 +21,11 @@ I'm an undergraduate at NIT Calicut with a strong interest in full-stack web dev
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ## Projects 🛠️  
-- [Weather-App](https://github.com/anirudhnkamath/Weather-App) - Weather app I made using React. Fetched API from OpenWeather.  
+- [Weather-App](https://github.com/anirudhnkamath/Weather-App) - Weather app I made using React. Fetched API from OpenWeather.
+- [json-server-cards-project](https://github.com/anirudhnkamath/json-server-cards-project) - Simple cards app which uses fake backend.
+- [tic-tac-toe](https://github.com/anirudhnkamath/tic-tac-toe-js) - Tic Tac Toe using simple JS.
+- [whack-a-mole](https://github.com/anirudhnkamath/whack-mole-js) - Whack a mole game using simple JS.
+- [ragam-task](https://github.com/anirudhnkamath/ragam-frontend-task) - The task for induction for ragam 2024 web dev team.
 - More loading soon ✌️...
 
 ## LeetCode Stats:  
